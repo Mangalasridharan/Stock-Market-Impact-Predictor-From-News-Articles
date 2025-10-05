@@ -1,0 +1,38 @@
+# .gitignore
+
+# Streamlit secrets
+.streamlit/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model files (if they're large)
+*.safetensors
+*.bin
+*.pth
+*.pt
+
+# Data files (if large)
+*.csv
+*.xlsx
+*.pkl
+
+# Logs
+*.log

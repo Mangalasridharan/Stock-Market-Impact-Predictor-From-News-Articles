@@ -1,4 +1,4 @@
-# Financial Article Ambiguity Analyzer
+# Stock Market Impact Predictor from Financial News Articles
 
 An NLP project for analyzing different types of ambiguity in financial articles.
 
